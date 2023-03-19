@@ -17,10 +17,11 @@ body{
 }
 
 .bolo {
-    height: 430px;
+    height: 400px;
     width: 100%;
     background-image: url(/images/hero_bolo.jpg);
     background-size: cover;
+    background-position: center;
 }
 
 
@@ -60,16 +61,14 @@ a{
 }
 
 .preparo{
-    margin-top: 160px; 
+    margin-top: 140px; 
     line-height: 35px;
-
-
 }
 
 
 .instrucao{
 
-margin: 160px 0 80px 0; 
+margin: 120px 0 80px 0; 
 }
 
 
